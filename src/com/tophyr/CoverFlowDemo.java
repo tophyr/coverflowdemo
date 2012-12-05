@@ -1,4 +1,7 @@
-package com.tophyr.coverflow;
+package com.tophyr;
+
+import com.tophyr.coverflow.CoverFlow;
+import com.tophyr.coverflow.MutableAdapter;
 
 import java.util.ArrayList;
 import java.util.Arrays;
